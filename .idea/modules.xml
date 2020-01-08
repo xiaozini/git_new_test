@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../zidonghua/ApiTestManage/.idea/ApiTestManage.iml" filepath="$PROJECT_DIR$/../zidonghua/ApiTestManage/.idea/ApiTestManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MyInterfaceTest1025/.idea/MyInterfaceTest1025.iml" filepath="$PROJECT_DIR$/../../MyInterfaceTest1025/.idea/MyInterfaceTest1025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../b2bInterface_test/.idea/b2bInterface_test.iml" filepath="$PROJECT_DIR$/../../b2bInterface_test/.idea/b2bInterface_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../b2bTest/.idea/b2bTest.iml" filepath="$PROJECT_DIR$/../../b2bTest/.idea/b2bTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../b2b_test/.idea/b2b_test.iml" filepath="$PROJECT_DIR$/../../b2b_test/.idea/b2b_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fukun_apitest/fukun_apitest/.idea/fukun_apitest.iml" filepath="$PROJECT_DIR$/../fukun_apitest/fukun_apitest/.idea/fukun_apitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ceshi/interfacetest/.idea/interfacetest.iml" filepath="$PROJECT_DIR$/../ceshi/interfacetest/.idea/interfacetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../rf_test/.idea/rf_test.iml" filepath="$PROJECT_DIR$/../../rf_test/.idea/rf_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../utx/.idea/utx.iml" filepath="$PROJECT_DIR$/../utx/.idea/utx.iml" />
+      <module fileurl="file://F:/videoCreate-master/.idea/videoCreate-master.iml" filepath="F:/videoCreate-master/.idea/videoCreate-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ydx_test/.idea/ydx_test.iml" filepath="$PROJECT_DIR$/../../ydx_test/.idea/ydx_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../yuedao/.idea/yuedao.iml" filepath="$PROJECT_DIR$/../../yuedao/.idea/yuedao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yuedao_framework.iml" filepath="$PROJECT_DIR$/.idea/yuedao_framework.iml" />
+    </modules>
+  </component>
+</project>

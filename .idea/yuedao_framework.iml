@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="MyInterfaceTest1025" />
+    <orderEntry type="module" module-name="interfacetest" />
+    <orderEntry type="module" module-name="b2bInterface_test" />
+    <orderEntry type="module" module-name="b2b_test" />
+    <orderEntry type="module" module-name="b2bTest" />
+    <orderEntry type="module" module-name="rf_test" />
+    <orderEntry type="module" module-name="ydx_test" />
+    <orderEntry type="module" module-name="yuedao" />
+    <orderEntry type="module" module-name="yuedao" />
+    <orderEntry type="module" module-name="utx" />
+    <orderEntry type="module" module-name="videoCreate-master" />
+    <orderEntry type="module" module-name="fukun_apitest" />
+    <orderEntry type="module" module-name="ApiTestManage" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
