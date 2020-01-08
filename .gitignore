@@ -12,6 +12,9 @@ venv/
 repost/
 resource/
 result/
+=======
+.Python
+>>>>>>> f32e799639ff18a6b77572c38c33bdabfe096a2e
 build/
 develop-eggs/
 dist/
